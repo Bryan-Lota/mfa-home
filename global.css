@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-dm-sans: "DM Sans";
+  --font-rubik: Rubik;
+  --font-inter: Inter;
+  --font-red-hat-display: "Red Hat Display";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-3xs: 10px;
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-base-9: 15.9px;
+  --font-size-21xl: 40px;
+  --font-size-20xl-7: 39.7px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: #020202;
+  --color-gray-200: rgba(0, 0, 0, 0.9);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.25);
+  --color-white: #fff;
+  --color-mediumslateblue: #1047d7;
+  --color-black: #000;
+  --color-dimgray-100: #71717a;
+  --color-dimgray-200: #555;
+  --color-darkslategray-100: #444;
+  --color-darkslategray-200: #333;
+  --color-cornflowerblue: #98b4ff;
+  --color-darkgray: #979797;
+  --color-whitesmoke: #f8f8f8;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-981xl: 1000px;
+  --br-81xl: 100px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-7xs: 6px;
+  --br-49981xl: 50000px;
+  --br-5xl: 24px;
+}
